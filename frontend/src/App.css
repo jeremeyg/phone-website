@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-css {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  height: 100px;
+  box-shadow: 0px 10px 10px -3px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-weight: bold;
+}
+
+/*banner*/
+.banner-boxShadow {
+  background-color: #191a1b;
+  background-image: linear-gradient(62deg, #292a2b 0%, #ede4f5 100%);
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  height: 30vh;
+  background: url('./images/banner.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btnBanner {
+  background-color: #809bd1;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  width: 10vw;
+}
+
+.cardHighlight {
+  min-height: 100%;
+}
+
+.preview-css {
+  border: none;
+  background-color: #ac2089;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  margin-top: 120px;
+}
+
+/*button*/
+.btnGradient {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+
